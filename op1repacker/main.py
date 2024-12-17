@@ -44,6 +44,7 @@ valid values are:
 - gfx-iter-lab
 - gfx-cwo-moose
 - gfx-cwo-dog
+- gfx-cwo-cat
 - gfx-tape-invert
 """
 
